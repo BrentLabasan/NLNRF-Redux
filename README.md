@@ -1,4 +1,25 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# NLNRF.com
+
+### I’m a big fan of Andrew Yang. His slogan “Not Left, Not Right, Forward” really captures how effectively his campaigning is able to bring together people of different political and economical backgrounds to unite against current and upcoming humanitarian problems like income inequality, mass layoffs due to automation, and climate change.
+
+### To help promote Andrew Yang, I created the web app [NLNRF.com](http://nlnrf.com/), in which people can view and submit locations to a Google Map of where people have promoted Andrew Yang on the streets and public, whether it be through chalking, graffiti, stickers, posters, murals, and more.
+
+## **[NLNRF.com](http://nlnrf.com/) is in open beta right now! Help us build new and exciting features for the site by checking out the code at [https://github.com/BrentLabasan/NLNRF](https://github.com/BrentLabasan/NLNRF)**
+
+The site is built with HTML, CSS, JavaScript, React, and Firebase.
+
+DESKTOP / BROWSER
+
+![](https://github.com/BrentLabasan/NLNRF/blob/master/src/media/press-kit/pic-desktop.png "Logo Title Text 1")
+
+MOBILE / BROWSER
+
+![](https://github.com/BrentLabasan/NLNRF/blob/master/src/media/press-kit/pic-mobile.png "Logo Title Text 1")
+
+---
+
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -33,7 +54,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
