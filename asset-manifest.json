@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/NLNRF-Redux/static/css/main.419131ca.chunk.css",
+    "main.js": "/NLNRF-Redux/static/js/main.9455718d.chunk.js",
+    "main.js.map": "/NLNRF-Redux/static/js/main.9455718d.chunk.js.map",
+    "runtime-main.js": "/NLNRF-Redux/static/js/runtime-main.b0a15c8f.js",
+    "runtime-main.js.map": "/NLNRF-Redux/static/js/runtime-main.b0a15c8f.js.map",
+    "static/js/2.e4ef69ce.chunk.js": "/NLNRF-Redux/static/js/2.e4ef69ce.chunk.js",
+    "static/js/2.e4ef69ce.chunk.js.map": "/NLNRF-Redux/static/js/2.e4ef69ce.chunk.js.map",
+    "index.html": "/NLNRF-Redux/index.html",
+    "precache-manifest.0fe574bce61d92c5ad96f995d5430b07.js": "/NLNRF-Redux/precache-manifest.0fe574bce61d92c5ad96f995d5430b07.js",
+    "service-worker.js": "/NLNRF-Redux/service-worker.js",
+    "static/css/main.419131ca.chunk.css.map": "/NLNRF-Redux/static/css/main.419131ca.chunk.css.map",
+    "static/js/2.e4ef69ce.chunk.js.LICENSE.txt": "/NLNRF-Redux/static/js/2.e4ef69ce.chunk.js.LICENSE.txt",
+    "static/media/poopandneedles.png": "/NLNRF-Redux/static/media/poopandneedles.da690e49.png",
+    "static/media/pulsing3.gif": "/NLNRF-Redux/static/media/pulsing3.ffd5e84b.gif",
+    "static/media/wut.gif": "/NLNRF-Redux/static/media/wut.9b488c89.gif",
+    "static/media/xu.png": "/NLNRF-Redux/static/media/xu.8685941e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0a15c8f.js",
+    "static/js/2.e4ef69ce.chunk.js",
+    "static/css/main.419131ca.chunk.css",
+    "static/js/main.9455718d.chunk.js"
+  ]
+}
